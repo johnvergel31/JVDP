@@ -1,2 +1,2 @@
 # landing-page
-This is my landing page
+My landing page
